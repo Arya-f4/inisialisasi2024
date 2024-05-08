@@ -7,7 +7,7 @@ const Footer = () => {
       <div
         className="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-white/10 lg:justify-between">
         <div className="me-12 hidden lg:block">
-          <span>Get connected with us on social networks:</span>
+          <span>Get yrdy:</span>
         </div>
         <div className="flex justify-center">
           {/* <a href="#!" className="me-6 [&>svg]:h-4 [&>svg]:w-4">
