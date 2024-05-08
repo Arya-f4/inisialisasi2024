@@ -31,7 +31,7 @@ const Navbar = () => {
                         className="w-8"
                       />
                     </span>
-                    <span>Inisialisasi Teknik Informatika</span>
+                    <span>Inisialisasi D4 Teknik Informatika</span>
                   </span>
                 </Link>
 
